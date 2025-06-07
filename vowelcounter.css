@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    justify-items: center;
+    background-color: chartreuse;
+}
+
+.container{
+    box-shadow: 0px 0px 10px rgb(138, 138, 138);
+    width: 500px;
+    height: 450px;
+    margin-top: 70px;
+    background-color: rgb(197, 197, 197);
+}
+
+.container:hover{
+    box-shadow: 0px 0px 10px rgb(97, 97, 97);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 40px;
+}
+
+#txtarea{
+    padding: 10px;
+    width: 400px;
+    height: 200px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+#txtbox{
+    text-align: center;
+}
+
+#countbtn{
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+#countbtnbox{
+    text-align: center;
+}
+
+#result{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
